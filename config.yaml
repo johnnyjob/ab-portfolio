@@ -1,4 +1,4 @@
-baseURL: https://github.com/johnnyjob/ab-portfolio # todo: change site url.
+baseURL: https://johnnyjob.github.io/ab-portfolio # todo: change site url.
 title: Anna's Portfolio # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
