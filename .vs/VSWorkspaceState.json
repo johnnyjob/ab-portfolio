@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\images",
+    "\\assets\\images\\misc",
+    "\\assets\\images\\oil",
+    "\\content",
+    "\\content\\work",
+    "\\content\\work\\misc",
+    "\\content\\work\\wood",
+    "\\layouts"
   ],
-  "SelectedNode": "\\W:\\Git\\ab-portfolio",
+  "SelectedNode": "\\assets\\images\\oil\\20221124_145319.jpg",
   "PreviewInSolutionExplorer": false
 }
